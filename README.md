@@ -1,16 +1,15 @@
 # MLM
 Solidity Smart Contract for Multi Level Marketing
 
-/*
-    Program: MLM.sol
-    **********************************************************************************
-    Note: The Following Program is not professionally tested. Use at own risk.
-    *********************************************************************************
-    *****************************************************************
-    Blockchain Lecture Videos can be viewed in My YouTube Channel at
-    https://www.youtube.com/channel/UC0oJO4o-UeMt5irLm6kxIWA
-    ******************************************************************
-    @Author: Dr. P. Raghu Vamsi, JIIT, Noida.
+Program: MLM.sol
+**********************************************************************************
+Note: The Following Program is not professionally tested. Use at own risk.
+*********************************************************************************
+*****************************************************************
+Blockchain Lecture Videos can be viewed in My YouTube Channel at
+https://www.youtube.com/channel/UC0oJO4o-UeMt5irLm6kxIWA
+******************************************************************
+@Author: Dr. P. Raghu Vamsi, JIIT, Noida.
     
     Problem Statement:
     A product manufracturing company wants to make use of Blockchian technology for their Multi
@@ -26,6 +25,5 @@ Solidity Smart Contract for Multi Level Marketing
     of the products sold by members. Further, to have control over the group, the maximum size of
     group is fixed to 25. 
     
-    Refer document providing explantion of the problem statement for 
-    better understanding of code. 
-*/
+Refer document providing explantion of the problem statement for better understanding of code. 
+
