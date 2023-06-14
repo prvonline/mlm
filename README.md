@@ -1,5 +1,4 @@
-# MLM
-Solidity Smart Contract for Multi Level Marketing
+# MLM - Solidity Smart Contract for Multi Level Marketing
 
 Program: MLM.sol
 Note: The Following Program is not professionally tested. Use at own risk.
